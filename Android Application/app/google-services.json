@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "646074233827",
+    "firebase_url": "https://smartjb-28df7-default-rtdb.firebaseio.com",
+    "project_id": "smartjb-28df7",
+    "storage_bucket": "smartjb-28df7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646074233827:android:4f1c5a9ac3983f5f7ea6d6",
+        "android_client_info": {
+          "package_name": "com.example.murugalakshmi.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646074233827-5ph094v0obampbrgulfcevqa0sor117k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU2_1fTPnZ3Lb7ZWtWuk6v6_6290QxRBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646074233827-5ph094v0obampbrgulfcevqa0sor117k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
